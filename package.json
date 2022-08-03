@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-enzyme": "^1.0.0-beta.1",
+    "mocha": "^10.0.0"
   }
 }
